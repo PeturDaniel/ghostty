@@ -1,0 +1,57 @@
+#### General Settings ####
+macos-titlebar-style = tabs
+mouse-hide-while-typing = true
+shell-integration-features = cursor,sudo,title
+cursor-style = block
+cursor-style-blink = true
+clipboard-read = allow
+clipboard-write = allow
+term = xterm-256color
+window-decoration = true
+
+#### Fonts ####
+font-family = FiraCode Nerd Font
+font-size = 17
+font-style-bold = true
+font-style-italic = true
+font-style-bold-italic = true
+# Disabling ligatures
+font-feature = -dlig
+font-feature = -liga
+font-feature = -calt
+
+#### Keys ####
+macos-option-as-alt = true
+
+#### Colors ####
+# Using Catppuccin-Mocha theme colors
+background = #262626
+foreground = #c0b18b
+cursor-color = #8fee96
+selection-background = #d75f5f
+selection-foreground = #2f2f2f
+
+# Color palette
+palette = 0=#19181a
+palette = 8=#5b595c
+palette = 1=#ff6188
+palette = 9=#ff6188
+palette = 2=#a9dc76
+palette = 10=#a9dc76
+palette = 3=#ffd866
+palette = 11=#ffd866
+palette = 4=#ab9df2
+palette = 12=#ab9df2
+palette = 5=#ff98c5
+palette = 13=#ff98c5
+palette = 6=#78dce8
+palette = 14=#78dce8
+palette = 7=#c1c0c0
+palette = 15=#fcfcfa
+
+# Opacity
+background-opacity = 1.0
+
+# Disable pane splitting
+keybind = cmd+d=unbind
+keybind = cmd+shift+d=unbind
