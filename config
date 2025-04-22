@@ -25,7 +25,7 @@ macos-option-as-alt = true
 
 #### Colors ####
 # Using Catppuccin-Mocha theme colors
-background = #262626
+background = #282a36
 foreground = #c0b18b
 cursor-color = #8fee96
 selection-background = #d75f5f
