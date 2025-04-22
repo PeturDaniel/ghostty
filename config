@@ -50,7 +50,7 @@ palette = 7=#c1c0c0
 palette = 15=#fcfcfa
 
 # Opacity
-background-opacity = 1.0
+background-opacity = 0.9
 
 # Disable pane splitting
 keybind = cmd+d=unbind
