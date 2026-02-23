@@ -7,7 +7,7 @@ cursor-style-blink = true
 clipboard-read = allow
 clipboard-write = allow
 term = xterm-256color
-window-decoration = true
+window-decoration = false
 
 #### Fonts ####
 font-family = FiraCode Nerd Font
@@ -55,3 +55,6 @@ background-opacity = 1.0
 # Disable pane splitting
 keybind = cmd+d=unbind
 keybind = cmd+shift+d=unbind
+
+# top,bottom (pixels, scaled by DPI)
+window-padding-y = 0,12
