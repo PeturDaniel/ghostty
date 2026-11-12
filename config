@@ -8,6 +8,7 @@ clipboard-read = allow
 clipboard-write = allow
 term = xterm-256color
 window-decoration = false
+custom-shader = ./shaders/caret.glsl
 
 #### Fonts ####
 font-family = FiraCode Nerd Font
